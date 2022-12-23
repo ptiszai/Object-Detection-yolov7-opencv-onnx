@@ -11,18 +11,23 @@ ONNX model format  description using for the IoT device: [ONNX home](https://onn
 - Windows 10 64-bit
 - NVIDIA Geforce GTX 960 2 Gbyte RAM
 - CUDA Toolkit v11.7
-- Microsoft Visual Studio Community 2022
-## Installation
-``` shell
-
-```
+- Microsoft Visual Studio Community 2022<br>
+## Installation<br>
 Downloading opencv files, there files are archive [7-Zip](https://www.7-zip.org/) binary dll files<br> 
 -Release mode: one size is 1 Gbye and other 21 Mbyte:<br> 
 [`opencv_worl460.dll`](https://drive.google.com/file/d/1G8MZn-uvgRxT0Mdiuidrdi-AmtjqTUwS/view?usp=share_link)<br>
- unzip and copy to ./x64/Release/directory.<br> 
+ unzip and copy to "./x64/Release/" directory.<br> 
 -Debug mode: one size is 1.4 Gbye and other 21 Mbyte:<br> 
 [`opencv_worl460d.dll`](https://drive.google.com/file/d/1Qxn5Ql0G9qRJJ55z_SittQquEIRBNPMP/view?usp=share_link)<br> 
- unzip and copy to ./x64/Debug/directory.<br>
+ unzip and copy to "./x64/Debug/" directory.<br>
 -include and lib files:<br> 
 [`opencv-4.6.0`](https://drive.google.com/file/d/1jUkP5F2EWV5GDPcuR16NSgNjriPjSUtO/view?usp=share_link)<br> 
  unzip and copy to ./3rdparty.<br> 
+## Building the ImageDetector-yolov7-opencv VS2022 project
+``` shell
+-VS2022 started.
+-"Open a project or solution".
+-in Browse serach the "ImageDetector-yolov7-opencv.sln" file, and it open that.
+-Build->Build Solution (F7).
+Builded in "./x64/Release/" directory.
+```
