@@ -31,4 +31,20 @@ Downloading opencv files, there files are archive [7-Zip](https://www.7-zip.org/
 -Build->Build Solution (F7).
 Builded in "./x64/Release/ImageDetector-yolov7-opencv.exe".
 ```
-## Running the "ImageDetector-yolov7-opencv.exe" app.
+## Running the "ImageDetector-yolov7-opencv.exe" app.<br>
+Program arguments: <br>
+![](doc/help.png)<br>
+Examples:
+``` shell
+cd ./x64/Release/ImageDetector-yolov7-opencv_image1.bat
+```
+Result:<br>
+![](x64/Release/bus_o.png)<br>
+``` shell
+cd ./x64/Release/ImageDetector-yolov7-opencv_video1.bat
+```
+Result:<br>
+<div align="center">
+<video src="./x64/Release/fruits_o.mp4" controls></video>
+ </a>
+</div>
