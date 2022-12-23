@@ -44,6 +44,9 @@ Result:<br>
 cd ./x64/Release/ImageDetector-yolov7-opencv_video1.bat
 ```
 Result0:<br>
+<video width="320" height="240" controls>
+  <source src="x64/Release/fruits_o.mp4" type="video/mp4">
+</video>
+
 <div align="center">
-<video src="./x64/Release/fruits_o.mp4" controls></video>
 </div>
