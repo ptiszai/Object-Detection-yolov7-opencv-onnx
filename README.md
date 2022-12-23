@@ -38,15 +38,14 @@ Examples:
 ``` shell
 cd ./x64/Release/ImageDetector-yolov7-opencv_image1.bat
 ```
-Result:<br>
+Result image:<br>
 ![](x64/Release/bus_o.png)<br>
 ``` shell
 cd ./x64/Release/ImageDetector-yolov7-opencv_video1.bat
 ```
-Result0:<br>
-<video width="320" height="240" controls>
-  <source src="x64/Release/fruits_o.mp4" type="video/mp4">
-</video>
+Result video:<br>
+<div style="text-align: center;">
 
-<div align="center">
+![alt text](https://www.youtube.com/watch?v=mUhqowmPq7M)
+
 </div>
