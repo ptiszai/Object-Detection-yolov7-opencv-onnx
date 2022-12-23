@@ -29,5 +29,6 @@ Downloading opencv files, there files are archive [7-Zip](https://www.7-zip.org/
 -"Open a project or solution".
 -in Browse serach the "ImageDetector-yolov7-opencv.sln" file, and it open that.
 -Build->Build Solution (F7).
-Builded in "./x64/Release/" directory.
+Builded in "./x64/Release/ImageDetector-yolov7-opencv.exe".
 ```
+## Running the "ImageDetector-yolov7-opencv.exe" app.
