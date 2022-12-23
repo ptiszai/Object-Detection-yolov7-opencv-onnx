@@ -6,5 +6,13 @@ Base is [Yolov7](https://github.com/WongKinYiu/yolov7)<br>
 [OpenCV office](https://opencv.org/)<br>
 [OpenCV 4.6.0 github](https://github.com/opencv/opencv)<br>
 [OpenCV 4.6.0 contrib github](https://github.com/opencv/opencv_contrib)<br>
+## Enviroment
+- Windows 10 64-bit
+- NVIDIA Geforce GTX 960 2 Gbyte RAM
+- CUDA Toolkit v11.7
+- Microsoft Visual Studio Community 2022
+## Installation
+``` shell
 
+```
 [`opencv_worl460.dll`](https://drive.google.com/file/d/1G8MZn-uvgRxT0Mdiuidrdi-AmtjqTUwS/view?usp=share_link) [`opencv_worl460d.dll`](https://drive.google.com/file/d/1Qxn5Ql0G9qRJJ55z_SittQquEIRBNPMP/view?usp=share_link) [opencv-4.6.0](https://drive.google.com/file/d/1jUkP5F2EWV5GDPcuR16NSgNjriPjSUtO/view?usp=share_link)
