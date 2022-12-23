@@ -44,8 +44,10 @@ Result image:<br>
 cd ./x64/Release/ImageDetector-yolov7-opencv_video1.bat
 ```
 Result video:<br>
+YouTube video (click):<br>
 <div style="text-align: center;">
 
-![alt text](https://www.youtube.com/watch?v=mUhqowmPq7M)
+[![YouTube video](https://img.youtube.com/vi/mUhqowmPq7M/0.jpg)](https://www.youtube.com/watch?v=mUhqowmPq7M)
 
-</div>
+</div><br>
+
