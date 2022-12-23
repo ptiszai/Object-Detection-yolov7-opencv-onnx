@@ -27,7 +27,7 @@ Downloading opencv files, there files are archive [7-Zip](https://www.7-zip.org/
 ``` shell
 -VS2022 started.
 -"Open a project or solution".
--in Browse to serach the "ImageDetector-yolov7-opencv.sln" file, and it open that.
+-in Browse to search the "ImageDetector-yolov7-opencv.sln" file, and it open that.
 -Build->Build Solution (F7).
 Builded in "./x64/Release/ImageDetector-yolov7-opencv.exe".
 ```
