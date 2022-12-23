@@ -43,8 +43,7 @@ Result:<br>
 ``` shell
 cd ./x64/Release/ImageDetector-yolov7-opencv_video1.bat
 ```
-Result:<br>
+Result0:<br>
 <div align="center">
 <video src="./x64/Release/fruits_o.mp4" controls></video>
- </a>
 </div>
